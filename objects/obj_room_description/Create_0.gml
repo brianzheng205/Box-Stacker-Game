@@ -1,0 +1,9 @@
+deaths = 0;
+pastDeaths = 0;
+levelDeaths[0] = 0;
+levelDeaths[1] = 0;
+levelDeaths[2] = 0; //Level 2
+levelDeaths[3] = 0; //Level 3
+trollDeath = false;
+droppedBox = false;
+restart = false;
